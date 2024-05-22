@@ -1,2 +1,2 @@
 # demo
-zip-downlod 对网络文件进行打包下载
+zip-download 对网络文件进行打包下载
