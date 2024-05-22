@@ -1,2 +1,2 @@
 # demo
-zip-download 对网络文件进行打包下载
+zip-download 多线程读取多个网络文件，打包下载成 .zip 压缩包
